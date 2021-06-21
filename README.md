@@ -2,7 +2,7 @@
 
 Video solutions of the codes commited in this repository can be found at our YouTube Channel whose link has been provided below:
 
-YouTube Channel Link: https://www.youtube.com/channel/UCKR_BI3_m_-Ucd8IP2imHdA/featured
+YouTube Channel Link: https://www.youtube.com/channel/UCKR_BI3_m_-Ucd8IP2imHdA
 
 
 About Us:
