@@ -10,8 +10,8 @@ About Us:
 Team Members: Saurabh Roychowdhury, Dinesh Mohanty
 
 We are a team of two and are graduates from IIT, currently working as Software Development Engineers in reputed firms.
-We are ardent believers of learning and growing together and in this pursuit we have created this channel where we discuss solutions of various coding questions.
-In future, we plan to provide content incorporating other aspects of Software Engineering as well.
+We are ardent believers of learning and growing together and in this pursuit, we have created this channel where we discuss solutions of various coding questions.
+In the future, we plan to provide content incorporating other aspects of Software Engineering as well.
 Please help us improve by providing your valuable suggestions.
 
 Feel free to contact us at: codinroy@gmail.com
